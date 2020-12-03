@@ -2,11 +2,11 @@ package main
 
 	
 import (
-	"bufio"
+    "bufio"
     "fmt"
-	"os"
-	// "strings"
-	// "strconv"
+    "os"
+    // "strings"
+    // "strconv"
 )
 
 // readLines reads a whole file into memory
